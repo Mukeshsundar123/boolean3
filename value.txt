@@ -1,0 +1,4 @@
+var cricketer: String
+cricketer = "virat kohli"
+
+print(cricketer) 
